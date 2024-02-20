@@ -1,0 +1,13 @@
+{
+    "name": "Minha Extenção",
+    "description": "Minha primeira extenção para o Gogle Chrome",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "index.html"
+    }
+}
+
+
+
